@@ -36,6 +36,7 @@
 //   return output;
 // };
 
+// Solution found in solution in leetcode
 var romanToInt = function (s) {
   var map = {
     I: 1, //can be in front of "V" or "X"
